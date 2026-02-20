@@ -1,6 +1,8 @@
 - Hi, I’m @codeCat359
 - I’m interested in using Java, C++, Python to experiment and create
 - I have done work with SQL Server, and am fluent in the language
+- I have public and private repo projects in Java, Python, Go, C#, C++, and Bash scripting
+- I have used Eclipse, Visual Studio, Code Blocks, and Kate
 - I’m currently learning Java and Python (ongoing)
 - I’m looking to collaborate on projects that peak my interest and sharpen my skillsets
 - Best to reach me by email.
