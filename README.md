@@ -5,7 +5,7 @@
 - I have used Eclipse, Visual Studio, Code Blocks, and Kate
 - I’m currently learning Java and Python (ongoing)
 - I’m looking to collaborate on projects that peak my interest and sharpen my skillsets
-- Best to reach me by email.
+- Best to reach me by email
 
 <!---
 codeCat359/codeCat359 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
